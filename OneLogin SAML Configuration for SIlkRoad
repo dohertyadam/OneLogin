@@ -1,0 +1,7 @@
+Tutorial: Azure Active Directory integration with SilkRoad Life Suite
+The objective of this tutorial is to show you how to integrate SilkRoad Life Suite with Azure Active Directory (Azure AD).
+Integrating SilkRoad Life Suite with Azure AD provides you with the following benefits:
+•	You can control in Azure AD who has access to SilkRoad Life Suite
+•	You can enable your users to automatically get signed-on to SilkRoad Life Suite (Single Sign-On) with their Azure AD accounts
+If you want to know more details about SaaS app integration with Azure AD, see What is application access and single sign-on with Azure Active Directory.
+Prerequisites
